@@ -1,8 +1,8 @@
-# HTML - Struktura dokumentu
+# HTML - document structure
 
-1. Wype³nij plik index.html :
-    * dodaj tytu³ strony
-    * dodaj plik style.css
-    * dodaj opis strony (tag meta)
-    * dodaj s³owa kluczowe (tag meta)
+1. Fill index.html :
+    * add title for this page
+    * add style.css
+    * add description for this page (meta)
+    * add keywords ( meta)
     
