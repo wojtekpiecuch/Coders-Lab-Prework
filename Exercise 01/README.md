@@ -6,7 +6,7 @@
     * add description for this page (meta)
     * add keywords ( meta)
     
-2. Add paragraph to body, and fill it some text.  
+2. Add paragraph to body, and fill it some text. 
     
 ##Need help?
 *  [Lorem ipsum generator](http://pl.lipsum.com/)
