@@ -8,7 +8,6 @@
 
 3. Add to body inline style attribute and change background color for body to green. What happened this time?
 
-
 ## class and id
 ### Add styles in style.css
 
