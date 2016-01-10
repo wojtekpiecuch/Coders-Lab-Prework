@@ -9,5 +9,4 @@ if you want to see them in browser. (You can also add some text to this div)
 side by side (not on opposite sides of the browser).
 
 4. Add style to paragraph. Look at image below.
-
     ![Some text](images/text.png)
