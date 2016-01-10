@@ -1,6 +1,6 @@
 # HTML - Text Formatting Elements
 
-1. Using the index.html, add CSS to make it look the same as sample.jpg 
+1. On the basis of known HTML elements, try to create identical structure in index.html
 
  ![Sample project](images/sample.jpg)
     
