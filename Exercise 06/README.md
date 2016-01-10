@@ -1,25 +1,26 @@
+# HTML / CSS - class and id
 
-# HTML - Box model
+## Add style to HTML
 
-1. Create in index.html link (a). Try to set for this link styles (in style.css), for example:
-  color: red;  border-color: red; width: 500px;  
-  **Remember add style.css to index.html.** What happened? Does a element have a 500px?   
-   What kind of element it is - inline or block?
+1. Create style.css file in css folder. Add this file to index.html. In style.css set background color for body element (use color blue).
 
-2. In index.html file add another element - p. Try to set the same styles for it. What happened this time?
+2. Add style between head tag, and change background color for body to pink. What happened?
 
-3. Check what type  (inline or block) are these HTML tags:
+3. Add to body inline style attribute and change background color for body to green. What happened this time?
 
-    * h1, h2, h3
-    * div
-    * span
-    * em, strong, u 
-    * ul and ol
-    * table
-    * img
-    * iframe
-    
- Create a table and fill it like below:
-    
- ![List of characters](images/box_model.png)
+
+## class and id
+### Add styles in style.css
+
+1. Create 2 paragraphs in body. The first of them set font color to green, and the other to purple.
+
+2. Create next 10 paragraphs. Set all of them the font color to brown.
+
+3. Create 5 div elements. Add to them class with the same name, for example 'block'. Don't add them id attribute.
+ In style.css try to add border for every element, using name of this class, but only once!
+
+
+
+
+
 
