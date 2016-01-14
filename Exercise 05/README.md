@@ -1,13 +1,18 @@
-# HTML - Tables
+# HTML - Tabele
 
-1. Create in index.html table. Fill it list of characters from Game of Thrones Series. Make it look at image below.
+1. Stwórz w pliku index.html tabele. Wypełnij ją listą postaci z Twojego ulubionego serialu. Postaraj się, aby wyglądała tak jak poniżej.
 
  ![List of characters](images/table.png)
  
-2. Create in index.html table.  Fill it list of best movies that you ever seen in your life. Make it look at image below.
+2. Stwórz w pliku index.html tabele. Wypełnij ją listą najlepszych filmów jakie widziałeś w życiu. Postaraj się, aby wyglądała tak jak poniżej.
 
   ![Best movies](images/table2.png)
 
-3. Create in index.html table. Make it look like image below.
+3. Stwórz w pliku index.html tabele. Postaraj się, aby wyglądała tak jak poniżej.
 
     ![Simple table](images/table3.png)
+
+##Potrzebujesz pomocy lub inspiracji?
+* [Poćwicz colspan i rowspan](https://jsfiddle.net/barney/ZBC6d/)
+* [Wybierz inny serial](http://www.imdb.com/search/title?num_votes=5000,&sort=user_rating,desc&title_type=tv_series)
+* HTML i CSS - pre-work
