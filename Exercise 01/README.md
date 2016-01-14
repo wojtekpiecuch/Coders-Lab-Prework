@@ -1,13 +1,13 @@
-# HTML - document structure
+﻿# HTML - Struktura dokumentu
 
-1. Fill index.html :
-    * add title for this page
-    * add style.css
-    * add description for this page (meta)
-    * add keywords ( meta)
+1. Wypełnij plik index.html :
+    * dodaj tytuł do strony
+    * dodaj plik style.css, znajdujący się w katalogu css
+    * dodaj opis strony (tag meta)
+    * dodaj słowa kluczowe (tag meta)
     
-2. Add paragraph to body, and fill it some text. 
+2. Dodaj paragraf do body i wypełnij go jakimś dowolnym tekstem np. lorem ipsum 
     
-##Need help?
+##Potrebujesz pomocy?
 *  [Lorem ipsum generator](http://pl.lipsum.com/)
 *  HTML i CSS - pre-work
