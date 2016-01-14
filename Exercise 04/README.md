@@ -1,6 +1,10 @@
-# HTML - Links & Images
+# HTML - Linki i obrazki
 
-1. Add image fronted-backend.jpg to index.html. Remember to add alternative text and title to this image.
+1. Dodaj obrazek fronted-backend.jpg do pliku index.html. Pamiętaj o dodaniu tekstu alternatywnego oraz tytułu do obrazka.
+
 ![Front-end & Back-end Developer](images/frontend-backend.jpg)
 
-2. Set link on this image. When the user clicks on it, new page should opened.
+2. Ustaw link na obrazku z pierwszego zadania. Kiedy użytkownik kliknie na obrazek strona powinna otworzyć się w nowej karcie.
+
+##Potrzebujesz pomocy?
+* HTML i CSS - pre-work
