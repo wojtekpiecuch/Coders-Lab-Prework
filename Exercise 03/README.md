@@ -1,7 +1,7 @@
 # HTML - Links & Iframes
 
 
-1. Add list with links to index.html. To the first group add target="_blank", to the second - nothing. Compare results.
+1. Dodaj listę  linkami do pliku index.html. Do pierwszej grupy dodaj target="_blank", do drugiej nie dodawaj nic. Porównaj wyniki.
 
     * Beautiful Website in 2014 and 2015
         * [www.awwwards.com](http://www.awwwards.com/websites/responsive-design/)
@@ -10,4 +10,7 @@
         * [www.creativebloq.com](http://www.creativebloq.com/web-design/must-have-tools-developers-31411174)
         * [tutorialzine.com](http://tutorialzine.com/2014/09/50-awesome-tools-and-resources-for-web-developers/)
         
-2. Add iframe to index.html with your favorite website.
+2. Ddodaj element iframe do pliku index.html. Jako atrybut src ustaw swoją ulubioną stronę z nowinkami ze świata IT
+
+##Potrzebujesz pomocy?
+*  HTML i CSS - pre-work
