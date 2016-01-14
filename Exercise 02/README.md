@@ -1,9 +1,9 @@
-# HTML - Text Formatting Elements
+# HTML - Formatowanie tekstu
 
-1. On the basis of known HTML elements, try to create identical structure in index.html
+1. Na podstawie znanych elementów HTML, spróbuj stworzyć identyczną strukturę w index.html
 
  ![Sample project](images/sample.jpg)
     
-##Need help?
+##Potrzebujesz pomocy?
 *  [CupCake ipsum generator](http://www.cupcakeipsum.com/)
 *  HTML i CSS - pre-work
