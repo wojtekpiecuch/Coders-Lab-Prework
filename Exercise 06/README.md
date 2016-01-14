@@ -1,22 +1,25 @@
-# HTML / CSS - class and id
+# HTML / CSS - class i id
 
-## Add style to HTML
+## Dodawanie styli do HTML-a
 
-1. Create style.css file in css folder. Add this file to index.html. In style.css set background color for body element (use color blue).
+1. Stwórz plik style.css w katalogu css. Dodaj plik style.css do index.html. W pliku style.css ustaw kolor tła dla elementu body (użyj koloru niebieskiego).
 
-2. Add style between head tag, and change background color for body to pink. What happened?
+2. Dodaj style za pomocą elementu style do tagu head i zmień kolor tła dla body na różowy. Co się zmieniło i dlaczego?
 
-3. Add to body inline style attribute and change background color for body to green. What happened this time?
+3. Dodaj do tagu body atrybut style inlinowo i zmień kolor tła na zielony. Co się zmieniło tym razem i dlaczego?
 
-## class and id
-### Add styles in style.css
+## class i id
+### Kolejne ćwiczenia wykonuj w pliku style.css
 
-1. Create 2 paragraphs in body. The first of them set font color to green, and the other to purple.
+1. Stwórz 2 paragrafy w body. Dla pierwszego z nich ustaw kolor czcionki na zielony, dla drugiego na fioletowy.
 
-2. Create next 10 paragraphs. Set all of them the font color to brown.
+2. Stwórz kolejne 10 paragrafów. Ustaw wszystkim kolor czcionki na brązowy.
 
-3. Create 5 div elements. Add to them class with the same name, for example 'block'. Don't add them id attribute.
- In style.css try to add border for every element, using name of this class, but only once!
+3. Stwórz 5 elementów div. Nadaj im takie same klasy np. 'block'. Nie dodawaj im atrybutu id.
+ W pliku style.css postaraj się dodać obramowanie dla każdego elementu, używając nazwy tej klasy (tylko raz)
+
+ ##Potrzebujesz pomocy lub inspiracji?
+* HTML i CSS - pre-work
 
 
 
