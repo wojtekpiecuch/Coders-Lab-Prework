@@ -8,6 +8,6 @@
     
 2. Dodaj paragraf do body i wypełnij go jakimś dowolnym tekstem np. lorem ipsum 
     
-##Potrebujesz pomocy?
+##Potrzebujesz pomocy?
 *  [Lorem ipsum generator](http://pl.lipsum.com/)
 *  HTML i CSS - pre-work
