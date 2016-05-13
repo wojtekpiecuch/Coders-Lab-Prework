@@ -1,16 +1,28 @@
-# HTML / CSS - ćwicymy CSS
+# HTML / CSS - class i id
 
-1. Stwórz 2 elementy div. Ustaw szerokość i wysokość dla każdego z nich w pliku style.css. Pamiętaj, aby ustawić im również obramowanie lub kolor tła jeśli chcesz je zobaczyć w przeglądarce.
+## Dodawanie styli do HTML-a
 
-2. Ustaw pierwszy div z poprzedniego zadania z lewej strony przeglądarki, a drugi z prawej.
+1. Stwórz plik style.css w katalogu css. Dodaj plik style.css do index.html. W pliku style.css ustaw kolor tła dla elementu body (użyj koloru niebieskiego).
 
-3. Stwórz następne 2 elementy, tym razem p. Ustaw szerokość i wysokość dla każdego z nich oraz obramowanie. Wykorzystaj zdobytą wiedzę
-i ustaw je obok siebie (nie po przeciwnych stronach przeglądarki)
+2. Dodaj style za pomocą elementu style do tagu head i zmień kolor tła dla body na różowy. Co się zmieniło i dlaczego?
 
-4. Dodaj style do paragrafu. Zobacz obrazek niżej:
+3. Dodaj do tagu body atrybut style inlinowo i zmień kolor tła na zielony. Co się zmieniło tym razem i dlaczego?
 
-    ![Some text](images/text.png)
+## class i id
+### Kolejne ćwiczenia wykonuj w pliku style.css
 
-##Potrzebujesz pomocy lub inspiracji?
-* [Jeśli nie roumiesz czym jest tag div](http://www.html-5-tutorial.com/div-tag.htm)
+1. Stwórz 2 paragrafy w body. Dla pierwszego z nich ustaw kolor czcionki na zielony, dla drugiego na fioletowy.
+
+2. Stwórz kolejne 10 paragrafów. Ustaw wszystkim kolor czcionki na brązowy.
+
+3. Stwórz 5 elementów div. Nadaj im takie same klasy np. 'block'. Nie dodawaj im atrybutu id.
+ W pliku style.css postaraj się dodać obramowanie dla każdego elementu, używając nazwy tej klasy (tylko raz)
+
+ ##Potrzebujesz pomocy lub inspiracji?
 * HTML i CSS - pre-work
+
+
+
+
+
+

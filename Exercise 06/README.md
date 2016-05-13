@@ -1,28 +1,25 @@
-# HTML / CSS - class i id
 
-## Dodawanie styli do HTML-a
+# HTML - Box model
 
-1. Stwórz plik style.css w katalogu css. Dodaj plik style.css do index.html. W pliku style.css ustaw kolor tła dla elementu body (użyj koloru niebieskiego).
+1. Stwórz w pliku index.html link (odnośnik). Ustaw, dla niego następujące style (w pliku style.css):
+  color: red;  border-color: red; width: 500px;  
+  **Pamiętaj o dodaniu pliku style.css do index.html.** Co się stało? Czy Twój link ma 500px szerokości?   
+Jakiego rodzaju elementem jest link  - inlinowy czy blokowy?
 
-2. Dodaj style za pomocą elementu style do tagu head i zmień kolor tła dla body na różowy. Co się zmieniło i dlaczego?
+2. W pliku index.html dodaj kolejny elementy - p. Ustaw takie same style dla niego. Co się dzieje tym razem?
 
-3. Dodaj do tagu body atrybut style inlinowo i zmień kolor tła na zielony. Co się zmieniło tym razem i dlaczego?
+3. Sprawdź jakiego roadzju  (inline czy block) są poniższe tagi:
 
-## class i id
-### Kolejne ćwiczenia wykonuj w pliku style.css
-
-1. Stwórz 2 paragrafy w body. Dla pierwszego z nich ustaw kolor czcionki na zielony, dla drugiego na fioletowy.
-
-2. Stwórz kolejne 10 paragrafów. Ustaw wszystkim kolor czcionki na brązowy.
-
-3. Stwórz 5 elementów div. Nadaj im takie same klasy np. 'block'. Nie dodawaj im atrybutu id.
- W pliku style.css postaraj się dodać obramowanie dla każdego elementu, używając nazwy tej klasy (tylko raz)
-
- ##Potrzebujesz pomocy lub inspiracji?
-* HTML i CSS - pre-work
-
-
-
-
-
+    * h1, h2, h3
+    * div
+    * span
+    * em, strong, u 
+    * ul and ol
+    * table
+    * img
+    * iframe
+    
+Stwórz tabelkę i wypełnij ją według schematu poniżej:
+    
+ ![List of characters](images/box_model.png)
 
