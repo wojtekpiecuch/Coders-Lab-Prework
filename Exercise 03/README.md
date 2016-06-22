@@ -2,7 +2,7 @@
 
 
 1. Dodaj listę z linkami do pliku index.html. Do pierwszej grupy dodaj target="_blank", do drugiej nie dodawaj nic. Porównaj wyniki.
-
+Pamiętaj o odpowiednim zagnieżdżeniu elementów wewnątrz listy ul.
     * Beautiful Website in 2014 and 2015
         * [www.awwwards.com](http://www.awwwards.com/websites/responsive-design/)
         * [www.behance.net](https://www.behance.net/gallery/19230847/website-design-best-of-2014)
