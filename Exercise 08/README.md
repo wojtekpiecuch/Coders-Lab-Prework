@@ -4,9 +4,9 @@
 1. Stwórz w pliku index.html link (odnośnik). Ustaw, dla niego następujące style (w pliku style.css):
   color: red;  border-color: red; width: 500px;  
   **Pamiętaj o dodaniu pliku style.css do index.html.** Co się stało? Czy Twój link ma 500px szerokości?   
-Jakiego rodzaju elementem jest link  - inlinowy czy blokowy?
+Jakiego rodzaju elementem jest link  - inlinowy czy blokowy? Napisz w komentarzu swoje spostrzeżenia.
 
-2. W pliku index.html dodaj kolejny elementy - p. Ustaw takie same style dla niego. Co się dzieje tym razem?
+2. W pliku index.html dodaj kolejny elementy - p. Ustaw takie same style dla niego. Co się dzieje tym razem? Napisz w komentarzu swoje spostrzeżenia.
 
 3. Sprawdź jakiego roadzju  (inline czy block) są poniższe tagi:
 
