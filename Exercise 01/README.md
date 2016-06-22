@@ -3,8 +3,7 @@
 1. Wypełnij plik index.html :
     * dodaj tytuł do strony
     * dodaj plik style.css, znajdujący się w katalogu css
-    * dodaj opis strony (tag meta)
-    * dodaj słowa kluczowe (tag meta)
+    * ustaw kolor tła w pliku style.css, aby sprawdzić czy został poprawnie dodany
     
 2. Dodaj paragraf do body i wypełnij go jakimś dowolnym tekstem np. lorem ipsum 
     
