@@ -1,6 +1,6 @@
 # HTML - Formatowanie tekstu
 
-1. Na podstawie znanych elementów HTML, spróbuj stworzyć identyczną strukturę w index.html
+1. Na podstawie znanych elementów HTML, spróbuj stworzyć identyczną strukturę w index.html. Pamiętaj o odpowiednim zagnieżdżaniu elementów w liście ul. Zwróć na to uwagę!
 
  ![Sample project](images/sample.jpg)
     
