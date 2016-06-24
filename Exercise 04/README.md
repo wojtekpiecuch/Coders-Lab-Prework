@@ -6,5 +6,5 @@
 
 2. Ustaw link na obrazku z pierwszego zadania. Kiedy użytkownik kliknie na obrazek strona powinna otworzyć się w nowej karcie.
 
-##Potrzebujesz pomocy?
+## Potrzebujesz pomocy?
 * HTML i CSS - pre-work

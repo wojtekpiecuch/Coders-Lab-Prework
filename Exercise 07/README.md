@@ -1,16 +1,25 @@
-# HTML / CSS - ćwicymy CSS
+## Box model
+1. Stwórz w pliku index.html link (odnośnik). Ustaw, dla niego następujące style (w pliku style.css):
+  color: red;  border-color: red; width: 500px;  
+  **Pamiętaj o dodaniu pliku style.css do index.html.** Co się stało? Czy Twój link ma 500px szerokości?  
+Jakiego rodzaju elementem jest link  - inlinowy czy blokowy? Opisz swoje spostrzeżenia w komentarzu w pliku HTML.
 
-1. Stwórz 2 elementy div. Ustaw szerokość i wysokość dla każdego z nich w pliku style.css. Pamiętaj, aby ustawić im również obramowanie lub kolor tła jeśli chcesz je zobaczyć w przeglądarce.
+2. W pliku index.html dodaj kolejny element - p. Ustaw takie same style dla niego. Co się dzieje tym razem? Opisz swoje spostrzeżenia w komentarzu w pliku HTML.
 
-2. Ustaw pierwszy div z poprzedniego zadania z lewej strony przeglądarki, a drugi z prawej.
+3. Sprawdź jakiego roadzju  (inline czy block) są poniższe tagi:
 
-3. Stwórz następne 2 elementy, tym razem p. Ustaw szerokość i wysokość dla każdego z nich oraz obramowanie. Wykorzystaj zdobytą wiedzę
-i ustaw je obok siebie (nie po przeciwnych stronach przeglądarki)
+    * h1, h2, h3
+    * div
+    * span
+    * em, strong, u
+    * ul and ol
+    * table
+    * img
+    * iframe
 
-4. Dodaj style do paragrafu. Zobacz obrazek niżej:
+Stwórz tabelkę i wypełnij ją według schematu poniżej:
 
-    ![Some text](images/text.png)
+ ![List of characters](images/box_model.png)
 
-##Potrzebujesz pomocy lub inspiracji?
-* [Jeśli nie roumiesz czym jest tag div](http://www.html-5-tutorial.com/div-tag.htm)
+## Potrzebujesz pomocy lub inspiracji?
 * HTML i CSS - pre-work
