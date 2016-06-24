@@ -4,9 +4,9 @@
 
 1. Stwórz plik style.css w katalogu css. Dodaj plik style.css do index.html. W pliku style.css ustaw kolor tła dla elementu body (użyj koloru niebieskiego).
 
-2. Dodaj style za pomocą elementu style do tagu head i zmień kolor tła dla body na różowy. Co się zmieniło i dlaczego?
+2. Dodaj style za pomocą elementu style do tagu head i zmień kolor tła dla body na różowy. Co się zmieniło i dlaczego? Opisz swoje spostrzeżenia w komentarzu w pliku HTML.
 
-3. Dodaj do tagu body atrybut style inlinowo i zmień kolor tła na zielony. Co się zmieniło tym razem i dlaczego?
+3. Dodaj do tagu body atrybut style inlinowo i zmień kolor tła na zielony. Co się zmieniło tym razem i dlaczego? Opisz swoje spostrzeżenia w komentarzu w pliku HTML.
 
 ## class i id
 ### Kolejne ćwiczenia wykonuj w pliku style.css
@@ -20,9 +20,3 @@
 
  ##Potrzebujesz pomocy lub inspiracji?
 * HTML i CSS - pre-work
-
-
-
-
-
-
