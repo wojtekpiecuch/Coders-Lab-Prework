@@ -1,5 +1,7 @@
 # CSS – Kolory i jednostki w CSS
 
+**Uwaga! Style pisz w pliku style.css, a nie inline. **
+
 1. Stwórz dwa elementy span i nadaj im różne kolory za pomocą słów kluczowych.
 
 2. Stwórz paragraf z następującym tekstem: „CSS jest wspaniały” i ostyluj każde słowo  innym kolorem używając słów kluczowych lub szesnastkowych. Podpowiedź (Każde słowo może być w osobnym elemencie span)
