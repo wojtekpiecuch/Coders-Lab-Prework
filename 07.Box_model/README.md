@@ -6,7 +6,7 @@ Jakiego rodzaju elementem jest link  - inlinowy czy blokowy? Opisz swoje spostrz
 
 2. W pliku index.html dodaj kolejny element - p. Ustaw takie same style dla niego. Co się dzieje tym razem? Opisz swoje spostrzeżenia w komentarzu w pliku HTML.
 
-3. Sprawdź jakiego roadzju  (inline czy block) są poniższe tagi:
+3. Sprawdź jakiego rodzaju  (inline czy block) są poniższe tagi:
 
     * h1, h2, h3
     * div
