@@ -1,6 +1,6 @@
 ## Box model
 1. Stwórz w pliku index.html link (odnośnik). Ustaw, dla niego następujące style (w pliku style.css):
-  color: red;  border-color: red; width: 500px;  
+  color: red;  border: 1px solid red; width: 500px;  
   **Pamiętaj o dodaniu pliku style.css do index.html.** Co się stało? Czy Twój link ma 500px szerokości?  
 Jakiego rodzaju elementem jest link  - inlinowy czy blokowy? Opisz swoje spostrzeżenia w komentarzu w pliku HTML.
 
