@@ -25,3 +25,5 @@ Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno 
 
 
 **Repozytorium z ćwiczeniami zostanie usunięte 2 tygodnie po zakończeniu kursu. Spowoduje to też usunięcie wszystkich forków które są zrobione z tego repozytorium.**
+
+**Repozytorium z ćwiczeniami zostanie usunięte 2 tygodnie po zakończeniu kursu. Spowoduje to też usunięcie wszystkich forków, które są zrobione z tego repozytorium.**
