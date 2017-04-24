@@ -1,6 +1,6 @@
 # HTML - Linki i obrazki
 
-1. Dodaj obrazek fronted-backend.jpg do pliku index.html. Pamiętaj o dodaniu tekstu alternatywnego oraz tytułu do obrazka.
+1. Dodaj obrazek frontend-backend.jpg do pliku index.html. Pamiętaj o dodaniu tekstu alternatywnego oraz tytułu do obrazka.
 
   ![Front-end & Back-end Developer](images/frontend-backend.jpg)
 
