@@ -1,3 +1,5 @@
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
 # HTML - Formatowanie tekstu
 
 1. Na podstawie znanych elementów HTML, spróbuj stworzyć identyczną strukturę w index.html. Pamiętaj o odpowiednim zagnieżdżaniu elementów w liście ul. Jeśli nie pamiętasz jak zagnieżdżać elementy, wróć do slajdu "Zagnieżdżanie list" w prezentacji o HTML i CSS.
