@@ -1,4 +1,6 @@
-﻿# HTML - Struktura dokumentu
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
+# HTML - Struktura dokumentu
 
 1. Wypełnij plik index.html :
     * dodaj tytuł do strony
