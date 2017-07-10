@@ -1,3 +1,5 @@
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
 # HTML - Tabele
 
 1. Stwórz w pliku index.html tabele. Wypełnij ją listą postaci z Twojego ulubionego serialu. Postaraj się, aby wyglądała tak jak poniżej.
