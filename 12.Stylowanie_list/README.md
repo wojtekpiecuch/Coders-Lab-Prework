@@ -1,3 +1,5 @@
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
 # CSS – Stylowanie list
 
 1. Stwórz zwykłą liste w HTML ul i zmień jej punktory na kwadraty.
