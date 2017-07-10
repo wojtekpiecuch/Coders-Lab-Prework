@@ -1,3 +1,5 @@
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
 # CSS – Stylowanie tekstu
 
 **Uwaga! Style pisz w pliku style.css, a nie inline. **
