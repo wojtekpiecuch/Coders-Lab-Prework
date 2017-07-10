@@ -1,3 +1,5 @@
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
 # HTML / CSS - ćwiczymy CSS
 
 1. Stwórz 2 elementy div. Ustaw szerokość i wysokość dla każdego z nich w pliku style.css. Pamiętaj, aby ustawić im również obramowanie lub kolor tła jeśli chcesz je zobaczyć w przeglądarce.
