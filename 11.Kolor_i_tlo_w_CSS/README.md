@@ -1,3 +1,5 @@
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
 # CSS – Kolor i tło
 
 1. Stwórz element div, a w nim paragraf wypełniony tekstem. Ustaw dowolne tło dla elementu div i nadaj mu przezroczystość 0.4 za pomocą rgba (pamiętaj o  przesłonięciu koloru rgba, wcześniej - wróć do prezentacji jeśli nie pamiętasz slajd o Przezroczystości tła)
