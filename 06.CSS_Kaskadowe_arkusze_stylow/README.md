@@ -1,3 +1,5 @@
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
 ## Dodawanie styli do HTML-a
 
 1. Stwórz plik style.css w katalogu css. Dodaj plik style.css do index.html. W pliku style.css ustaw kolor tła dla elementu body (użyj koloru niebieskiego). Pamiętaj o odświeżeniu przeglądarki po każdej zmianie zarówno w HTML jak i w CSS.
