@@ -1,3 +1,5 @@
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+
 # HTML / CSS - Formularze
 
 1. Stwórz formularz według przykładu poniżej
