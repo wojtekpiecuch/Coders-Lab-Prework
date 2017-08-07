@@ -20,7 +20,7 @@
 
 ## class i id
 
-Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, klasy oraz identyfikatora (id). Wykonaj poniższe polecenia z zastosowaniem najwłaściwszego z nich. 
+Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, klasy oraz identyfikatora (id). Wykonaj poniższe polecenia z zastosowaniem najwłaściwszych z nich.
 
 1. Stwórz dwa paragrafy: 
   * pierwszy o zielonym kolorze czcionki,
@@ -33,7 +33,7 @@ Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, kl
   * wysokość   50px,
   * grubość obramowania 3px.
 
-  ![Screen](images/screen.jpg)
+  ![screen](images/screen.png)
 
 
 ## Potrzebujesz pomocy lub inspiracji?
