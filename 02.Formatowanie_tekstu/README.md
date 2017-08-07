@@ -7,7 +7,7 @@ Na podstawie znanych elementów HTML spróbuj stworzyć identyczną strukturę w
 
  ![Sample project](images/sample.jpg)
 
-##Potrzebujesz pomocy?
+## Potrzebujesz pomocy?
 * [CupCake ipsum generator](http://www.cupcakeipsum.com)
 * [dokumentacja](https://developer.mozilla.org/pl/docs/Web/HTML/Element/ul)
 * HTML i CSS &ndash; prework
