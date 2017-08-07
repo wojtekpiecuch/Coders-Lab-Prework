@@ -37,4 +37,4 @@ Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, kl
 
 
 ## Potrzebujesz pomocy lub inspiracji?
-* HTML i CSS - pre-work
+* HTML i CSS &ndash; pre-work
