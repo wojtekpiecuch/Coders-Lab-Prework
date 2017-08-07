@@ -12,7 +12,7 @@
 
 ![Simple table](images/table2.png)
 
-W obu tabelach pamiętaj o atrybucie **scope**.
+* W obu tabelach pamiętaj o atrybucie **scope**.
 * Nie stosuj znaczników formatujących tekst takich jak **b** czy **strong**.
 * Pamiętaj nie tylko o nagłówkach poziomych, lecz także &ndash; pionowych.
 
