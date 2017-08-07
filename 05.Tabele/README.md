@@ -1,20 +1,23 @@
 <img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
-# HTML - Tabele
+# HTML &ndash; tabele
 
-1. Stwórz w pliku index.html tabele. Wypełnij ją listą postaci z Twojego ulubionego serialu. Postaraj się, aby wyglądała tak jak poniżej.
+1. Stwórz w pliku **index.html** tabelę taką jak poniżej. Wypełnij ją listą postaci z Twojego ulubionego serialu lub filmu. Postaraj się, aby wyglądała tak jak poniżej.
 
- ![List of characters](images/table.png)
+ ![List of characters](images/table1.png)
 
-2. Stwórz w pliku index.html tabele. Wypełnij ją listą najlepszych filmów jakie widziałeś w życiu. Postaraj się, aby wyglądała tak jak poniżej.
 
-  ![Best movies](images/table2.png)
 
-3. Stwórz w pliku index.html tabele. Postaraj się, aby wyglądała tak jak poniżej.
+2. Stwórz w pliku **index.html** tabelę taką jak poniżej. 
 
-    ![Simple table](images/table3.png)
+![Simple table](images/table2.png)
+
+W obu tabelach pamiętaj o atrybucie **scope**.
+Nie stosuj znaczników formatujących tekst takich jak **b** czy **strong**.
+Pamiętaj, że w htmlu istnieją nie tylko nagłówki poziome, lecz także pionowe.
 
 ##Potrzebujesz pomocy lub inspiracji?
 * [Poćwicz colspan i rowspan](https://jsfiddle.net/barney/ZBC6d/)
-* [Wybierz inny serial :)](http://www.imdb.com/search/title?num_votes=5000,&sort=user_rating,desc&title_type=tv_series)
-* HTML i CSS - pre-work
+* [Poczytaj o tabelach w dokumentacji](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes/Styling_tables)
+* [Światowa baza danych na temat filmów](http://www.imdb.com/search/title?num_votes=5000,&sort=user_rating,desc&title_type=tv_series)
+* HTML i CSS &ndash; pre-work

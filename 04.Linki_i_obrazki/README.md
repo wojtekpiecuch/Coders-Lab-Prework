@@ -3,12 +3,12 @@
 # HTML &ndash; linki i obrazki
 
 1. W folderze **images** znajdziesz obrazek **frontend-backend.jpg**. Umieść go w pliku **index.html**. Ten element ma mieć dwa atrybuty:
-    * zarówno o tekście alternat ywnym, 
-    * jak i jego tytule. Ten element ma mieć zate
+    * tekst alternatywny, 
+    * tytuł.
 
   ![Front-end & Back-end Developer](images/frontend-backend.jpg)
 
-2. Ustaw link do strony coderslab.pl na obrazku z pierwszego polecenia. Kiedy użytkownik kliknie na obrazek strona powinna otworzyć się w nowej karcie.
+2. Na obrazku z pierwszego polecenia ustaw link do strony coderslab.pl. Kiedy użytkownik kliknie na obrazek, to strona powinna otworzyć się w nowej karcie (użyj odpowiedniego atrybutu).
 
 ## Potrzebujesz pomocy?
-* HTML i CSS - pre-work
+* HTML i CSS &ndash; pre-work
