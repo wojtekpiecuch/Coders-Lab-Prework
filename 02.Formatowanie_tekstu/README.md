@@ -1,12 +1,13 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslaZwróć uwagę b.svg" width="400">
 
-# HTML - Formatowanie tekstu
+# HTML &ndash; formatowanie tekstu
 
-1. Na podstawie znanych elementów HTML, spróbuj stworzyć identyczną strukturę w index.html. Pamiętaj o odpowiednim zagnieżdżaniu elementów w liście ul. Jeśli nie pamiętasz jak zagnieżdżać elementy, wróć do slajdu "Zagnieżdżanie list" w prezentacji o HTML i CSS.
+1. Na podstawie znanych elementów HTML spróbuj stworzyć identyczną strukturę w **index.html**. Pamiętaj o odpowiednim zagnieżdżaniu elementów w liście nieuporządkowanej (**ul**). Wróć do slajdu "Zagnieżdżanie list" w prezentacji o HTML i CSS.
 
 
  ![Sample project](images/sample.jpg)
 
 ##Potrzebujesz pomocy?
-*  [CupCake ipsum generator](http://www.cupcakeipsum.com/)
-*  HTML i CSS - pre-work
+* [CupCake ipsum generator](http://www.cupcakeipsum.com)
+* [Dokumentacja, tworzenie list](https://developer.mozilla.org/pl/docs/Web/HTML/Element/ul)
+* HTML i CSS &ndash; prework
