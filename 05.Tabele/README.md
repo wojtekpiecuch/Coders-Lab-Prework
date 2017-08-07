@@ -4,13 +4,13 @@
 
 1. Stwórz w pliku **index.html** tabelę taką jak poniżej. Wypełnij ją listą postaci z Twojego ulubionego serialu lub filmu. Postaraj się, aby wyglądała tak jak poniżej.
 
- ![List of characters](images/table1.png)
+   ![List of characters](images/table1.png)
 
 
 
 2. Stwórz w pliku **index.html** tabelę taką jak poniżej. 
 
-![Simple table](images/table2.png)
+   ![Simple table](images/table2.png)
 
 * W obu tabelach pamiętaj o atrybucie **scope**.
 * Nie stosuj znaczników formatujących tekst takich jak **b** czy **strong**.
