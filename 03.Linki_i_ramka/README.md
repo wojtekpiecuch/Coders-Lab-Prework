@@ -3,7 +3,7 @@
 # HTML &ndash; Links & Iframes
 
 1. List ciąg dalszy. Dodaj do pliku **index.html** poniższe linki ułożone tak jak poniżej. Do pierwszej grupy dodaj **target="_blank"**, do drugiej nie dodawaj nic. Porównaj wyniki i opisz je w komentarzu. Tak jak w poprzednim zadaniu pamiętaj o odpowiednim zagnieżdżeniu elementów wewnątrz listy **ul**. 
-  1. Beautiful Website in 2014 and 2015
+    1. Beautiful Website in 2014 and 2015
     * [www.awwwards.com](http://www.awwwards.com/websites/responsive-design/)
     * [www.behance.net](https://www.behance.net/gallery/19230847/website-design-best-of-2014)
   1. Useful tools for web developers
