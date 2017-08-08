@@ -13,10 +13,10 @@ Postaraj się jak najlepiej odzwierciedlić przykład, zwróć uwagę na szczeg�
 [generator cienia](http://www.cssportal.com/css3-text-shadow-generator/)
 
 ## Specyfikacja:  
-	* czcionka użyta w przykładzie: Verdana, Arial, sans-serif; ///////////////
-	* szerokość elementu div: 500px;
-	* h1:  kolor tła: #ACC4CE, kolor tekstu: white, wielkość czionki: 20px, kolor cienia: #878787;
-	* span – kolor tekstu: #395075, odległość między literami: 10px;
-	* p – kolor tekstu: grey, wielkość czcionki: 14px; wysokość linii: 20px, wcięcie: 20px;
+* czcionka użyta w przykładzie: Verdana, Arial, sans-serif; ///////////////
+* szerokość elementu div: 500px;
+* h1 &ndash; kolor tła: #ACC4CE, kolor tekstu: white, wielkość czionki: 20px, kolor cienia: #878787;
+* span &ndash; kolor tekstu: #395075, odległość między literami: 10px;
+* p &ndash; kolor tekstu: grey, wielkość czcionki: 14px; wysokość linii: 20px, wcięcie: 20px;
 
 	![Przykładowy tekst](images/text1.jpg)
