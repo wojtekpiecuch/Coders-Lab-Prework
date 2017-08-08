@@ -1,17 +1,39 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+<img alt="logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
-# HTML / CSS - ćwiczymy CSS
+# HTML/CSS &ndash; ćwiczymy CSS
 
-1. Stwórz 2 elementy div. Ustaw szerokość i wysokość dla każdego z nich w pliku style.css. Pamiętaj, aby ustawić im również obramowanie lub kolor tła jeśli chcesz je zobaczyć w przeglądarce.
+Ustaw elementy według poniższego wzoru.
 
-2. Ustaw pierwszy div z poprzedniego zadania z lewej strony przeglądarki, a drugi z prawej.
+    ![screen](images/text.png)
 
-3. Stwórz następne 2 elementy, tym razem p. Ustaw szerokość i wysokość dla każdego z nich oraz obramowanie. Wykorzystaj zdobytą wiedzę i ustaw je obok siebie (nie po przeciwnych stronach przeglądarki)
+1. W pierwszym wierszu są dwa elementy **div** o następujących własnościach:
+szerokość: 100px,
+wysokość: 100px,
+szerokość obramowania: 1 piksel,
+styl obramowania: pojedyncza linia ciągła (**solid**),
+kolor obramowania: czarny.
 
-4. Dodaj style do paragrafu. Zobacz obrazek niżej:
+Pierwszy div ma znajdować się po lewej stronie, a drugi &ndash; po prawej.
+Między nimi nie może być żadnych elementów.
 
-    ![Some text](images/text.png)
+
+2. W drugim wierszu &ndash; dwa paragrafy o następujących własnościach:
+szerokość obramowania: 2 piksele,
+styl obramowania: pojedyncza linia kropkowana (**solid**),
+kolor obramowania: czerwony.
+
+Paragrafy maja ustawiać się obok siebie po lewej stronie.
+
+## Wskazówki
+Do odpowiedniego ustawienia elementów możesz korzystać z następujących własności:
+* **display**
+* **float**
+* **clear**
+
+**Uwaga**. Własność **display** nie może być w tym samym elemencie co **float** lub **clear**. 
 
 ## Potrzebujesz pomocy lub inspiracji?
-* [Jeśli nie roumiesz czym jest tag div](http://www.html-5-tutorial.com/div-tag.htm)
-* HTML i CSS - pre-work
+* [O tagu div](http://www.html-5-tutorial.com/div-tag.htm)
+* [O własności clear](https://developer.mozilla.org/pl/docs/Web/CSS/clear)
+* [O własności display](http://css.webcodehelpers.com/2014/05/css-display-block-vs-inline-block-vs.html)
+* HTML i CSS &ndash; prework

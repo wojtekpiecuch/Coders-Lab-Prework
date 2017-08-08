@@ -1,14 +1,14 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+<img alt="logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
-# CSS – Kolory i jednostki w CSS
+# CSS &ndash; kolory i jednostki w CSS
 
-**Uwaga! Style pisz w pliku style.css, a nie inline. **
+**Uwaga! Style pisz w pliku **style.css** a nie inline. **
 
 1. Stwórz dwa elementy span i nadaj im różne kolory za pomocą słów kluczowych.
 
-2. Stwórz paragraf z następującym tekstem: „CSS jest wspaniały” i ostyluj każde słowo  innym kolorem używając słów kluczowych lub szesnastkowych. Podpowiedź (Każde słowo może być w osobnym elemencie span)
+2. Stwórz paragraf z następującym tekstem: „CSS jest wspaniały” i ostyluj każde słowo innym kolorem, używając słów kluczowych lub szesnastkowych. Podpowiedź (każde słowo może być w osobnym elemencie **span**).
 
-3. Stwórz dwa elementy div, wpisz do nich jakiś tekst i ustaw im tło używając kolorów w zapisie szesnastkowym (możesz pobrać kolory w zapisie hex ze strony: [Color-hex](http://www.color-hex.com/) )
+3. Stwórz dwa elementy **div**, wpisz do nich tekst i ustaw im tło, używając kolorów w zapisie szesnastkowym (możesz pobrać kolory w zapisie hex ze strony: [Color-hex](http://www.color-hex.com/))
 
 4. Zmień kolor, stworzonym w poprzednim zadaniu elementom div używając zapisu rgba, ustaw przezroczystość na 0.25 (kolory w zapisie rgb możesz pobrać również ze strony [Color-hex](http://www.color-hex.com/) )
 

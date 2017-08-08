@@ -5,9 +5,9 @@
 1. Wypełnij plik index.html:
     * dodaj tytuł do strony,
     * podłącz (zalinkuj) arkusz styli (plik **style.css** znajduje się w katalogu **css**),
-    * ustaw kolor tła w pliku **style.css**, dzięki temu sprawdzisz, czy arkusz styli został poprawnie dodany.    
+    * ustaw kolor tła w pliku **style.css**, dzięki temu sprawdzisz, czy arkusz styli został poprawnie dodany.
 
-2. Do body dodaj paragraf i wypełnij go dowolnym tekstem np. lorem ipsum.
+2. Do body dodaj paragraf i wypełnij go słowami "Lorem ipsum".
 
 Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno w kodzie HTML, jak i CSS.
 

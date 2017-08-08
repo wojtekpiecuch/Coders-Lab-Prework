@@ -28,7 +28,7 @@ Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, kl
 
 2. Stwórz kolejne pięć paragrafów. Ustaw wszystkim kolor czcionki na brązowy.
 
-3. Stwórz następujących pięć elementów **div** o klasie **block**, mają one mieć następujące własności:
+3. Stwórz pięć elementów **div** o klasie **block**, mają one mieć następujące własności:
   * szerokość 100px,
   * wysokość   50px,
   * grubość obramowania 3px.
