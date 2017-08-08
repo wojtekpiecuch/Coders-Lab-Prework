@@ -9,7 +9,7 @@
 	Kilka pomocnych informacji:  
 	* czcionka użyta w przykładzie: Verdana, Arial, sans-serif; ///////////////
 	* szerokość elementu div: 500px;
-	* h1:  kolor tła: #ACC4CE, kolor tekstu: white, wielkość czionki: 20px, kolor cienia: #878787 [generator text-shadow](http://www.cssportal.com/css3-text-shadow-generator/) )
+	* h1:  kolor tła: #ACC4CE, kolor tekstu: white, wielkość czionki: 20px, kolor cienia: #878787 [generator text-shadow](http://www.cssportal.com/css3-text-shadow-generator/)
 	* span – kolor tekstu: #395075, odległość między literami: 10px
 	* p – kolor tekstu: grey, wielkość czcionki: 14px; wysokość linii: 20px, wcięcie: 20px;
 
