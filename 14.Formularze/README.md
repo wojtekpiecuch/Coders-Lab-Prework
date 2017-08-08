@@ -7,7 +7,7 @@
 * Label powinien wskazywać na swój input.
 * Zauważ, że jeden z checkboksów jest domyślnie zaznaczony.
 * Zajrzyj do dokumentacji, w inputach **radio** i **checkbox** szczególnie zwróć uwagę na atrybuty **name**.
-* Jak zrobić ramki, które widzimy w formularzu 2? Poczytaj o elemencie **fieldset**.
+* Co to za ramki widoczne w formularzu 2? Odpowiedź to element **fieldset**.
 
 
 
