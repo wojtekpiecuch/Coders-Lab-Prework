@@ -1,6 +1,6 @@
 <img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
-# CSS – Tabele
+# CSS &ndash; tabele
 
 ##1. Style tabel.
 W pliku html stwórz tabelę o 3 kolumnach i 6-ciu wierszach (+ jednym wierszu z nagłówkami tabeli).
