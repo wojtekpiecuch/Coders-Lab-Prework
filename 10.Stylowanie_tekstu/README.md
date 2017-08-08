@@ -7,12 +7,12 @@
 1. Stwórz element **div**, a w nim elementy **h1**, **span** oraz **p**. Ze strony [lipsum.pl](http://lipsum.pl/) ściągnij kawałek przykładowego tekstu i wstaw go do paragrafu. Uzupełnij również tekst w elemencie **h1** oraz **span**. Następnie ostyluj element zgodnie z obrazkiem poniżej.
 
 ## Uwaga
-Postaraj się jak najlepiej odzwierciedlić przykład, zwróć uwagę na szczegóły m.in. cień i pochylenie tekstu. Nie wszystko jest opisane w specyfikacji poniżej.**
+Postaraj się jak najlepiej odzwierciedlić przykład, zwróć uwagę na szczegóły m.in. cień i pochylenie tekstu. Nie wszystko jest opisane w specyfikacji poniżej.
 
 ### Przydatne narzędzie
 [generator cienia](http://www.cssportal.com/css3-text-shadow-generator/)
 
-	## Wskazówki:  
+## Specyfikacja:  
 	* czcionka użyta w przykładzie: Verdana, Arial, sans-serif; ///////////////
 	* szerokość elementu div: 500px;
 	* h1:  kolor tła: #ACC4CE, kolor tekstu: white, wielkość czionki: 20px, kolor cienia: #878787;
