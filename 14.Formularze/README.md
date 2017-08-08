@@ -2,7 +2,7 @@
 
 # HTML/CSS &ndash; formularze
 
-## Wskazówki
+### Wskazówki
 * Wybierz najwłaściwszy w danym miejscu typ inputu. Inny jest potrzebny tam, gdzie użytkownik wpisuje adres email, inny gdy podaje datę, a inny gdy hasło itd.
 * Label powinien wskazywać na swój input.
 * Zauważ, że jeden z checkboksów jest domyślnie zaznaczony.
@@ -27,4 +27,4 @@
 * [O inputach radio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 * [Labele i inputy](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 * [Czym jest fieldset?](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
-* HTML i CSS &ndash; pre-work;
+* HTML i CSS &ndash; prework;
