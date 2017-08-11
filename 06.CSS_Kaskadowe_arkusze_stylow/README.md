@@ -23,8 +23,8 @@ W pliku **html** do tagu **body** dodaj artybut **style**. Ustaw zielony kolor t
 Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, klasy oraz identyfikatora (id). Wykonaj poniższe polecenia, wykorzystaj wszystkie trzy typy selektorów.
 
 1. Stwórz dwa paragrafy:
-  * pierwszy o zielonym kolorze fontu,
-  * drugi o czerwonym kolorze fontu.
+    * pierwszy o zielonym kolorze fontu,
+    * drugi o czerwonym kolorze fontu.
 
 2. Stwórz kolejne pięć paragrafów. Ustaw wszystkim kolor fontu na brązowy.
 
