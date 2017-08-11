@@ -32,7 +32,7 @@ Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, kl
     * szerokość: 100px,
     * wysokość: 50px,
     * grubość obramowania: 3px,
-    * styl obramowania: linia ciągła (solid),
+    * styl obramowania: pojedyncza linia ciągła (solid),
     * kolor obramowania: czerwony.
 
 
