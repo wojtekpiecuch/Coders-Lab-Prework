@@ -6,20 +6,20 @@
 
 1. Stwórz dwa elementy span i nadaj im różne kolory za pomocą słów kluczowych.
 
-2. Stwórz paragraf z następującym tekstem: „CSS jest wspaniały” i ostyluj każde słowo innym kolorem, użyj słów kluczowych lub szesnastkowych. Podpowiedź (każde słowo może być w osobnym elemencie span).
+2. Stwórz paragraf z następującym tekstem: „CSS jest wspaniały” i ostyluj każde słowo innym kolorem, użyj ich predefiniowanych nazw (np. red, green, darkkhaki). Podpowiedź (każde słowo może być w osobnym elemencie span).
 
-3. Stwórz dwa elementy div, wpisz do nich tekst i ustaw im tło. Użyj kolorów w zapisie szesnastkowym (**hex**).
+3. Stwórz dwa elementy div, wpisz do nich tekst i ustaw im tło. Użyj kolorów w zapisie szesnastkowym (hex).
 
 4. Elementom div z poprzedniego zadania zmień zapis koloru na rgba, ustaw przezroczystość na 0.25.
 
-5. Stwórz kolejny element div, nadaj mu odpowiednią klasę i ustaw kolor tym razem w zapisie hsla.
+5. Stwórz kolejny element div, ustaw mu kolor tym razem w zapisie hsla.
 
-6. Stwórz element div, umieść w nim dwa paragrafy z dowolnym tekstem. W CSS ustaw dowolny kolor tła dla całego kontenera i ustaw szerokość na 200px (width).
+6. Stwórz element div, umieść w nim dwa paragrafy z dowolnym tekstem. W CSS ustaw dowolny kolor tła dla całego kontenera (elemnetu div) i ustaw szerokość na 200px (width).
 
 7. Dla każdego paragrafu z poprzedniego zadania ustaw dwa różne kolory tła i zmień im szerokość w następujący sposób:
 	* pierwszy paragraf &ndash; ***width: 50%;***
-	* drugi paragraf &ndash; ***width: 20%;***
+	* drugi paragraf &ndash; ***width: 20%;***.
+	Następnie ustaw tym paragrafom szerokość w jednostkach em.
 
-8. Przetestuj działanie jednostki em w powyższym zadaniu.
 
-Aby pobrać kolory w odpowiednim zapisie skorzystaj z tej strony: [Color-hex](http://www.color-hex.com/)).
+**Aby pobrać kolory (w dowolnym zapisie) skorzystaj z tej strony: [Color-hex](http://www.color-hex.com/)).**
