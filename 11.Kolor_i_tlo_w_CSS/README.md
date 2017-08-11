@@ -17,7 +17,7 @@ Opisz spostrzeżenia w komentarzu. Jak zmienia się div, a jak elementy w nim za
 
 5. Stwórz element div i ustaw jego szerokość na 100% oraz wysokość na 200px. Wypełnij jego tło dowolnym obrazkiem, a następnie zablokuj powielanie obrazka.
 
-6. Ustaw obrazek z poprzedniego polecenia na środku elementu **div** (skorzystaj z **background-position**).
+6. Ustaw obrazek z poprzedniego polecenia na środku elementu div (skorzystaj z **background-position**).
 
 
 ## Uwaga
