@@ -35,14 +35,15 @@ Ze strony [lipsum.pl](http://lipsum.pl/) ściągnij kawałek przykładowego teks
 
 ---
 
+## Przydatne narzędzie
+[generator cienia](http://www.cssportal.com/css3-text-shadow-generator/)
+
 ## Uwaga
 Postaraj się jak najlepiej odzwierciedlić przykład, zwróć uwagę na szczegóły m.in. cień w **h1** i pochylenie tekstu w **h2**. Nie wszystko jest opisane w specyfikacji poniżej.
 Używaj selektorów elementów oraz selektorów klas. Nie stosuj identyfikatorów.
 
 Style pisz w pliku **style.css**, nie stosuj styli inlinowych.
 
-### Przydatne narzędzie
-[generator cienia](http://www.cssportal.com/css3-text-shadow-generator/)
 
 
 ## Potrzebujesz pomocy lub inspiracji?
