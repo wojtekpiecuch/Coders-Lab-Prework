@@ -25,7 +25,7 @@ Między nimi nie może być żadnych elementów.
 
   Paragrafy maja ustawiać się obok siebie, po lewej stronie.
 
-==
+---
 
 ## Ważne
 Do odpowiedniego ustawienia elementów możesz korzystać wyłącznie z następujących własności:
