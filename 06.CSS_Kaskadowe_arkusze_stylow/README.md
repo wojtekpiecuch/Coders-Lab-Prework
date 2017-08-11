@@ -6,14 +6,13 @@
   * zapisuj zmiany i odświeżaj przeglądarkę,
   * umieść komentarze z opisem, co się zmieniło i dlaczego. Czy zaobserwowałeś jakąś zasadę CSS?
 
-
-#### 1. ZEWNĘTRZNY ARKUSZ STYLI, niebieskie tło
+### 1. ZEWNĘTRZNY ARKUSZ STYLI, niebieskie tło
   W katalogu **css** stwórz plik **style.css** i ustaw w nim niebieski kolor tła elementowi **body**.
 
-#### 1. WEWNĘTRZNY ARKUSZ STYLI, różowe tło
+### 2. WEWNĘTRZNY ARKUSZ STYLI, różowe tło
 Dodaj wewnętrzne style do sekcji **head** pliku **html**. Ustaw w nich różowy kolor tła elementowi **body**.
 
-#### 1. STYLE INLINE, zielone tło
+### 3. STYLE INLINE, zielone tło
 W pliku **html** do tagu **body** dodaj artybut **style**. Ustaw zielony kolor tła.
 
 
