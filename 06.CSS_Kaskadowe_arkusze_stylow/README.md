@@ -10,10 +10,10 @@
   ### 1. ZEWNĘTRZNY ARKUSZ STYLI, niebieskie tło
   W katalogu **css** stwórz plik **style.css** i ustaw w nim niebieski kolor tła elementowi **body**.
 
-  2. WEWNĘTRZNY ARKUSZ STYLI, różowe tło
+###  2. WEWNĘTRZNY ARKUSZ STYLI, różowe tło
 Dodaj wewnętrzne style do sekcji **head** pliku **html**. Ustaw w nich różowy kolor tła elementowi **body**.
 
-3. STYLE INLINE, zielone tło
+  #### 3. STYLE INLINE, zielone tło
 W pliku **html** do tagu **body** dodaj artybut **style**. Ustaw zielony kolor tła.
 
 
