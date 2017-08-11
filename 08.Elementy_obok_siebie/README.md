@@ -23,18 +23,19 @@ Między nimi nie może być żadnych elementów.
   * styl obramowania: pojedyncza linia kropkowana (**dotted**),
   * kolor obramowania: czerwony.
 
-Paragrafy maja ustawiać się obok siebie, po lewej stronie.
+  Paragrafy maja ustawiać się obok siebie, po lewej stronie.
 
 ## Ważne
-Do odpowiedniego ustawienia elementów możesz korzystać z następujących własności:
-* display
-* float
-* clear
+Do odpowiedniego ustawienia elementów możesz korzystać wyłącznie z następujących własności:
+  * **display**
+  * **float**
+  * **clear**
 
-Własność **display** nie może być w tym samym elemencie co **float** lub **clear**.
+Nie musisz jednak korzystać ze wszystkich wyżej wymienionych. Własność **display** nie może być w tym samym elemencie co **float** lub **clear**.
 
 ## Potrzebujesz pomocy lub inspiracji?
 * [tutorial, tag div](http://www.html-5-tutorial.com/div-tag.htm)
 * [dokumentacja, clear](https://developer.mozilla.org/pl/docs/Web/CSS/clear)
 * [tutorial,  display](http://css.webcodehelpers.com/2014/05/css-display-block-vs-inline-block-vs.html)
+* [tutorial, float](http://learnlayout.com/float.html)
 * HTML i CSS &ndash; prework
