@@ -33,9 +33,7 @@ Ze strony [lipsum.pl](http://lipsum.pl/) ściągnij kawałek przykładowego teks
   *	wysokość linii: 20px,
   *	wcięcie: 20px.
 
---
 ==
-__
 
 ## Uwaga
 Postaraj się jak najlepiej odzwierciedlić przykład, zwróć uwagę na szczegóły m.in. cień w **h1** i pochylenie tekstu w **h2**. Nie wszystko jest opisane w specyfikacji poniżej.
