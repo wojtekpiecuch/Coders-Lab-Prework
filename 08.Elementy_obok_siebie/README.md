@@ -41,7 +41,7 @@ Własność **display** nie może być w tym samym elemencie co **float** lub **
 * [tutorial, div](http://www.html-5-tutorial.com/div-tag.htm)
 * [dokumentacja, display](https://developer.mozilla.org/pl/docs/Web/CSS/display)
 * [tutorial,  display](http://css.webcodehelpers.com/2014/05/css-display-block-vs-inline-block-vs.html)
-* [dokumentacja, float](https://developer.mozilla.org/pl/docs/Web/CSS/clear)
+* [dokumentacja, float](https://developer.mozilla.org/pl/docs/Web/CSS/float)
 * [tutorial, float](http://learnlayout.com/float.html)
 * [dokumentacja, clear](https://developer.mozilla.org/pl/docs/Web/CSS/clear)
 * HTML i CSS &ndash; prework
