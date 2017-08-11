@@ -11,7 +11,7 @@ Stwórz element **div**, a w nim następujące elementy:
   * **h2**,
   * **p**.
 
-Ze strony [lipsum.pl](http://lipsum.pl/) ściągnij kawałek przykładowego tekstu i wstaw go do paragrafu. Uzupełnij również tekst w elemencie **h1** oraz **span**. Następnie ostyluj element zgodnie z poniższym obrazkiem oraz specyfikacją.
+Ze strony [lipsum.pl](http://lipsum.pl/) ściągnij kawałek przykładowego tekstu i wstaw go do paragrafu. Uzupełnij również tekst w nagłówkach. Następnie ostyluj element zgodnie z poniższym obrazkiem oraz specyfikacją.
 
 ![Przykładowy tekst](images/text1.jpg)
 
