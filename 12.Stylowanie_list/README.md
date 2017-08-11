@@ -5,11 +5,10 @@
 1. Stwórz listę nieuporządkowaną i zmień jej punktory na kwadraty.
 
 2. Stwórz proste menu &ndash; oparte na liście nieuporządkowanej &ndash; według wzoru poniżej.
-  
   Specyfikacja:   
   kolor tekstu: #116493.
 
-	![lista](images/lista.jpg)
+![lista](images/lista.jpg)
 
 
 ## Potrzebujesz pomocy lub inspiracji?
