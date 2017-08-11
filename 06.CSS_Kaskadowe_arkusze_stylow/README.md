@@ -15,7 +15,9 @@ Dodaj wewnętrzne style do sekcji **head** pliku **html**. Ustaw w nich różowy
 #### 3. STYLE INLINE, zielone tło
 W pliku **html** do tagu **body** dodaj artybut **style**. Ustaw zielony kolor tła.
 
-
+===
+==
+====
 
 ## class i id
 
