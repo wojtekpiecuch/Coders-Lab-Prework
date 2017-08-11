@@ -6,7 +6,7 @@
 
 1. Stwórz dwa elementy span i nadaj im różne kolory za pomocą słów kluczowych.
 
-2. Stwórz paragraf z następującym tekstem: „CSS jest wspaniały” i ostyluj każde słowo innym kolorem, użyj ich predefiniowanych nazw (np. red, green, darkkhaki). Podpowiedź (każde słowo może być w osobnym elemencie span).
+2. Stwórz paragraf z następującym tekstem: „CSS jest wspaniały” i ostyluj każde słowo innym kolorem, użyj predefiniowanych nazw (np. red, green, darkkhaki). Każde słowo może być w osobnym elemencie span.
 
 3. Stwórz dwa elementy div, wpisz do nich tekst i ustaw im tło. Użyj kolorów w zapisie szesnastkowym (hex).
 
