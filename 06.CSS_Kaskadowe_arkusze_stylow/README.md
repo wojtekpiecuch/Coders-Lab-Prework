@@ -1,20 +1,20 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+<img alt="logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
-## Dodawanie styli do HTML-a
+# HTML &ndash; stylowanie dokumentu
 
   Wykonaj poniższe polecenia. Po każdym z nich zrób następujące czynności:
   * zapisuj zmiany i odświeżaj przeglądarkę,
-  * umieść komentarze z opisem co się zmieniło i dlaczego. Czy zaobserwowałeś jakąś zasadę CSS.
+  * umieść komentarze z opisem, co się zmieniło i dlaczego. Czy zaobserwowałeś jakąś zasadę CSS?
 
 
-1. ZEWNĘTRZNY ARKUSZ STYLI, niebieskie tło 
-  W katalogu **css** stwórz plik **style.css** i ustaw w nim niebieski kolor tła elementowi **body**.
+1. ZEWNĘTRZNY ARKUSZ STYLI, niebieskie tło
+W katalogu **css** stwórz plik **style.css** i ustaw w nim niebieski kolor tła elementowi **body**.
 
 1. WEWNĘTRZNY ARKUSZ STYLI, różowe tło
-  Dodaj wewnętrzne style do sekcji **head** pliku **html**. Ustaw w nich różowy kolor tła elementowi **body**. 
+Dodaj wewnętrzne style do sekcji **head** pliku **html**. Ustaw w nich różowy kolor tła elementowi **body**.
 
 1. STYLE INLINE, zielone tło
-  W pliku **html** do tagu **body** dodaj artybut **style**. Ustaw zielony kolor tła.
+W pliku **html** do tagu **body** dodaj artybut **style**. Ustaw zielony kolor tła.
 
 
 
@@ -22,7 +22,7 @@
 
 Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, klasy oraz identyfikatora (id). Wykonaj poniższe polecenia z zastosowaniem najwłaściwszych z nich.
 
-1. Stwórz dwa paragrafy: 
+1. Stwórz dwa paragrafy:
   * pierwszy o zielonym kolorze czcionki,
   * drugi o fioletowym kolorze czcionki.
 

@@ -7,15 +7,15 @@
 * Label powinien wskazywać na swój input.
 * Zauważ, że jeden z checkboksów jest domyślnie zaznaczony.
 * Zajrzyj do dokumentacji, w inputach **radio** i **checkbox** szczególnie zwróć uwagę na atrybuty **name**.
-* Co to za ramki widoczne w formularzu 2? Odpowiedź to element **fieldset**.
+* Co to za ramki widoczne w formularzu 2? Odpowiedź przynosi element **fieldset**.
 
 
 
-1. Stwórz formularz kontaktowy taki jak na poniższym przykładzie:
+1. Stwórz formularz kontaktowy taki jak w poniższym przykładzie:
 
   ![Simple form](images/form1.png)
   
-1. Stwórz formularz wypożyczalni samochodów według przykładu poniżej:
+2. Stwórz formularz wypożyczalni samochodów według przykładu poniżej:
   
   ![Car rental](images/form2.png)
 

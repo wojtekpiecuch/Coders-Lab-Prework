@@ -26,4 +26,6 @@ Stwórz tabelę z wykazem elementów HTML i ich rodzajów. Wypełnij ją według
  ![List of characters](images/box_model.png)
 
 ## Potrzebujesz pomocy lub inspiracji?
+
+* [Inline vs block, short tutorial video](https://www.youtube.com/watch?v=bOh9WjucNsA)
 * HTML i CSS &ndash; pre-work
