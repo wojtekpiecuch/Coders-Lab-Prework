@@ -17,8 +17,8 @@
 6. Stwórz element div, umieść w nim dwa paragrafy z dowolnym tekstem. W CSS ustaw dowolny kolor tła dla całego kontenera (elemnetu div) i ustaw szerokość na 200px (width).
 
 7. Dla każdego paragrafu z poprzedniego zadania ustaw dwa różne kolory tła i zmień im szerokość w następujący sposób:
-	* pierwszy paragraf &ndash; ***width: 50%;***
-	* drugi paragraf &ndash; ***width: 20%;***.
+	* pierwszy paragraf &ndash; **width: 50%;**
+	* drugi paragraf &ndash; **width: 20%;**.
 	Następnie ustaw tym paragrafom szerokość w jednostkach em.
 
 
