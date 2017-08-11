@@ -6,7 +6,7 @@ Ustaw elementy według poniższego wzoru.
 
 ![screen](images/elements.png)
 
-1. W pierwszym wierszu są dwa elementy **div** o następujących własnościach:
+1. W pierwszym wierszu mają być dwa elementy **div** o następujących własnościach:
   * szerokość elementu: 100px,
   * wysokość elementu: 100px,
   * szerokość obramowania: 1px,
