@@ -15,7 +15,7 @@ Czy zaobserwowałeś jakąś zasadę CSS?
 Dodaj wewnętrzne style do sekcji **head** pliku **html**. Ustaw w nich różowy kolor tła elementowi **body**.
 
 #### 3. STYLE INLINE, zielone tło
-W pliku **html** do tagu **body** dodaj artybut **style**. Ustaw zielony kolor tła.
+W pliku **html** do tagu **body** dodaj atrybut **style**. Ustaw zielony kolor tła.
 
 ---
 
@@ -26,7 +26,7 @@ Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, kl
     * pierwszy o zielonym kolorze fontu,
     * drugi o czerwonym kolorze fontu.
 
-2. Stwórz kolejne pięć paragrafów. Ustaw wszystkim kolor fontu na brązowy.
+2. Stwórz kolejne pięć paragrafów. Ustaw wszystkim brązowy kolor fontu.
 
 3. Stwórz pięć elementów **div** o klasie **block**, mają one mieć następujące własności:
     * szerokość: 100px,
@@ -36,9 +36,10 @@ Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, kl
     * kolor obramowania: czerwony.
 
 
+
 Efekt ma być zbliżony do poniższego przykładu:
 
-  ![screen](images/screen.png)
+  ![screen](images/cascading.png)
 
 
 ## Potrzebujesz pomocy lub inspiracji?
