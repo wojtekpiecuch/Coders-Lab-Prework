@@ -8,8 +8,7 @@
 
 
 1. ZEWNĘTRZNY ARKUSZ STYLI, niebieskie tło
-
-W katalogu **css** stwórz plik **style.css** i ustaw w nim niebieski kolor tła elementowi **body**.
+  W katalogu **css** stwórz plik **style.css** i ustaw w nim niebieski kolor tła elementowi **body**.
 
 2. WEWNĘTRZNY ARKUSZ STYLI, różowe tło
 
