@@ -17,7 +17,7 @@ Ustaw elementy według poniższego wzoru.
 Między nimi nie może być żadnych elementów.
 
 
-#### 2. W drugim wierszu mają się znaleźć dwa paragrafy o następujących własnościach:
+##### 2. W drugim wierszu mają się znaleźć dwa paragrafy o następujących własnościach:
   * szerokość elementu: 80px,
   * szerokość obramowania: 2px,
   * styl obramowania: pojedyncza linia kropkowana (**dotted**),
