@@ -11,4 +11,5 @@
 2. Na obrazku z pierwszego polecenia ustaw link do strony coderslab.pl. Kiedy użytkownik kliknie na obrazek, to strona powinna otworzyć się w nowej karcie (użyj odpowiedniego atrybutu).
 
 ## Potrzebujesz pomocy?
+* [w3schools, atrybut target](https://www.w3schools.com/tags/att_a_target.asp)
 * HTML i CSS &ndash; pre-work

@@ -8,7 +8,7 @@
 * Zauważ, że jeden z checkboksów jest domyślnie zaznaczony.
 * Zajrzyj do dokumentacji, w inputach **radio** i **checkbox** szczególnie zwróć uwagę na atrybuty **name**.
 * Co to za ramki widoczne w formularzu 2? Odpowiedź przynosi element **fieldset**.
-
+* Nie zwracaj uwagi na styl formularza. Skoncentruj się na tym, aby dobrze napisać kod html. 
 
 
 1. Stwórz formularz kontaktowy taki jak w poniższym przykładzie:

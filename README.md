@@ -14,7 +14,7 @@ Wykonaj następujące kroki:
 
 ## Zadania
 
-Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno w kodzie HTML jak i CSS.
+Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno w kodzie HTML, jak i CSS.
 
 * [Formatowanie kodu HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html/)
 
@@ -25,4 +25,4 @@ Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno 
 [ref-push]: http://gitref.org/remotes/#push
 [pull-request]: https://help.github.com/articles/creating-a-pull-request
 
-**Repozytorium z ćwiczeniami zostanie usunięte 2 tygodnie po zakończeniu kursu. Spowoduje to też usunięcie wszystkich forków, które są zrobione z tego repozytorium.**
+**Zadania zostaną usunięte dwa tygodnie po zakończeniu kursu. Spowoduje to też likwidację wszystkich forków, które są zrobione z tego repozytorium.**

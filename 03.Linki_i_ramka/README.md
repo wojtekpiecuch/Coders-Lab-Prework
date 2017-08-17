@@ -21,7 +21,7 @@ Tak jak w poprzednim zadaniu pamiętaj o odpowiednim zagnieżdżeniu elementów 
 
 
 
-##Potrzebujesz pomocy lub inspiracji?
+## Potrzebujesz pomocy lub inspiracji?
 * [Smashing magazine](https://www.smashingmagazine.com)
 * [Dokumentacja, lista zagnieżdżona](https://developer.mozilla.org/pl/docs/Web/HTML/Element/ul)
 * [Dokumentacja, element iframe](https://developer.mozilla.org/pl/docs/Web/HTML/Element/iframe)

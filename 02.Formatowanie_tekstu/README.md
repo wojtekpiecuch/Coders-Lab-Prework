@@ -3,7 +3,7 @@
 # HTML &ndash; formatowanie tekstu
 
 
-Na podstawie znanych elementów html spróbuj stworzyć identyczną strukturę w **index.html**.
+Na podstawie znanych elementów HTML spróbuj stworzyć identyczną strukturę w **index.html**.
 
 
 
@@ -18,6 +18,7 @@ Na podstawie znanych elementów html spróbuj stworzyć identyczną strukturę w
  Wróć do slajdu &#8222;Zagnieżdżanie list&#8221; w prezentacji o HTML i CSS oraz poczytaj na ten temat w [dokumentacji][dokumentacja]. Zwróć uwagę, w jakim miejscu umieszcza się listę zagnieżdżoną, zwłaszcza gdzie zamyka się znacznik **li**.
 
  Nie zwracaj uwagi na typ znacznika w liście zagnieżdżonej. Nie ma znaczenia, czy poszczególne elementy zaczynają się od symbolu koła, okrągu czy kwadratu. Ważne, aby to była lista nieuporządkowana (**ul**).
+
 
 
 ## Potrzebujesz pomocy?
