@@ -14,8 +14,7 @@
 3. Do body dodaj paragraf i wypełnij go słowami &#8222;Lorem ipsum&#8221;.
 
 ### Ważne
-Kultura kodu jest bardzo ważna. Zadbaj o odpowiednie wcięcia, zarówno w kodzie HTML, jak i w CSS.
-Przed przystąpieniem do pracy nad preworkiem przeczytaj artykuł poradniczy na temat [zasad pisania czytelnego kodu.](http://coderslab.pl/blog/dobre-praktyki/zasady-pisania-czytelnego-kodu-czyli-o-kulturze-programisty)
+Kultura kodu jest bardzo istotna. W każdym zadaniu zadbaj o odpowiednie wcięcia, zarówno w kodzie HTML, jak i w CSS. Przed przystąpieniem do pracy nad preworkiem przeczytaj artykuł poradniczy na temat [zasad pisania czytelnego kodu.](http://coderslab.pl/blog/dobre-praktyki/zasady-pisania-czytelnego-kodu-czyli-o-kulturze-programisty)
 
 ### Potrzebujesz pomocy?
 * [Czym jest lorem ipsum](https://pl.wikipedia.org/wiki/Lorem_ipsum)
