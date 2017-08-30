@@ -20,7 +20,7 @@
 	* pierwszy paragraf &ndash; **width: 50%;**
 	* drugi paragraf &ndash; **width: 20%;**.
 
-Następnie ustaw tym paragrafom szerokość w jednostkach em.
+    Następnie ustaw tym paragrafom szerokość w jednostkach em.
 
 
-**Aby pobrać kolory (w dowolnym zapisie) skorzystaj z tej strony: [Color-hex](http://www.color-hex.com/)).**
+**Aby pobrać kolory (w dowolnym zapisie) skorzystaj z tej strony: [Color-hex](http://www.color-hex.com/).**
