@@ -2,7 +2,7 @@
 
 # CSS &ndash; kolor i tło
 
-1. Stwórz element div, a w nim dwa paragrafy wypełnione krótkimi tekstami (do 20 znaków). Ustaw dowolne tło dla elementu **div** i nadaj mu przezroczystość 0.4 za pomocą rgba. Pamiętaj o przesłonięciu koloru rgba. Wróć do materiałów szkoleniowych (slajd o przezroczystości tła), aby upewnić się, czy dobrze robisz to zadanie.
+1. Stwórz element **div**, a w nim dwa paragrafy wypełnione krótkimi tekstami (do 20 znaków). Ustaw dowolne tło dla elementu **div** i nadaj mu przezroczystość 0.4 za pomocą rgba. Pamiętaj o przesłonięciu koloru rgba. Wróć do materiałów szkoleniowych (slajd o przezroczystości tła), aby upewnić się, czy dobrze robisz to zadanie.
 
 2. Zamień ustawianie przezroczystości i koloru z poprzedniego zadania rgba na opacity. Porównaj efekty.
 Opisz spostrzeżenia w komentarzu. Jak zmienia się div, a jak elementy w nim zawarte?
@@ -15,9 +15,9 @@ Opisz spostrzeżenia w komentarzu. Jak zmienia się div, a jak elementy w nim za
    * pobierz dowolny obrazek &ndash; np. z tej strony [sitebuilderreport](http://www.sitebuilderreport.com/stock-up) i zapisz go w podfolderze **images** (w głównym folderze projektu),
    * stwórz element div i ustaw dla niego tło w postaci powyższego obrazka.
 
-5. Stwórz element div i ustaw jego szerokość na 100% oraz wysokość na 200px. Wypełnij jego tło dowolnym obrazkiem, a następnie zablokuj powielanie obrazka.
+5. Stwórz element **div** i ustaw jego szerokość na 100% oraz wysokość na 200px. Wypełnij jego tło dowolnym obrazkiem, a następnie zablokuj powielanie obrazka.
 
-6. Ustaw obrazek z poprzedniego polecenia na środku elementu div (skorzystaj z **background-position**).
+6. Ustaw obrazek z poprzedniego polecenia na środku elementu **div** (skorzystaj z **background-position**).
 
 
 ## Uwaga
