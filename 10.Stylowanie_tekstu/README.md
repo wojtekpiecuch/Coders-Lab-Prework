@@ -39,15 +39,15 @@ Ze strony [lipsum.pl](http://lipsum.pl/) ściągnij kawałek przykładowego teks
 [generator cienia](http://www.cssportal.com/css3-text-shadow-generator/)
 
 ## Uwaga
-Postaraj się jak najlepiej odzwierciedlić przykład, zwróć uwagę na szczegóły m.in. cień w **h1** i pochylenie tekstu w **h2**. Nie wszystko jest opisane w specyfikacji poniżej.
-Używaj selektorów elementów oraz selektorów klas. Nie stosuj identyfikatorów.
+Postaraj się jak najlepiej odzwierciedlić przykład, zwróć uwagę na szczegóły m.in. cień w **h1** i pochylenie tekstu w **h2**. Nie wszystko jest opisane w specyfikacji powyżej.
+Używaj selektorów elementów oraz klas. Nie stosuj identyfikatorów.
 
 Style pisz w pliku **style.css**, nie stosuj styli inlinowych.
 
 
 
 ## Potrzebujesz pomocy lub inspiracji?
-* [Dlaczego należy podawać więcej niż jedną czcionkę?](https://developer.mozilla.org/pl/docs/Web/CSS/font-family)
+* [Dlaczego należy podawać więcej niż jeden font?](https://developer.mozilla.org/pl/docs/Web/CSS/font-family)
 * [Jak można cieniować tekst?](https://css-tricks.com/almanac/properties/t/text-shadow/)
 * [Czym jest dziedziczenie?](https://developer.mozilla.org/pl/docs/Web/CSS/Dziedziczenie)
 * HTML i CSS &ndash; prework
