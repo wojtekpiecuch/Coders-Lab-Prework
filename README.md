@@ -14,10 +14,7 @@ Wykonaj następujące kroki:
 
 ## Ważne
 
-Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno w kodzie HTML, jak i CSS. Przed przystąpieniem do pracy nad preworkiem przeczytaj artykuł poradniczy na temat [zasad pisania czytelnego kodu.](http://coderslab.pl/blog/dobre-praktyki/zasady-pisania-czytelnego-kodu-czyli-o-kulturze-programisty).
-
-Warto też zapoznać się z tym tekstem:
-* [Formatowanie kodu HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html/)
+Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno w kodzie HTML, jak i CSS. Przed przystąpieniem do pracy nad preworkiem przeczytaj artykuł poradniczy na temat [zasad pisania czytelnego kodu.](http://coderslab.pl/blog/dobre-praktyki/zasady-pisania-czytelnego-kodu-czyli-o-kulturze-programisty). Warto też zapoznać się z tym tekstem: [Formatowanie kodu HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html/).
 
 <!-- Links -->
 [forking]: https://guides.github.com/activities/forking/
