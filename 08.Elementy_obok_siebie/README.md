@@ -35,7 +35,9 @@ Do odpowiedniego ustawienia elementów możesz korzystać wyłącznie z następu
 
 Nie musisz jednak korzystać ze wszystkich wyżej wymienionych.
 
-Własność **display** nie może być w tym samym elemencie co **float** lub **clear**.
+Aby ustawić elementy obok siebie skorzystaj albo z **float** albo z **display**. W tym przypadku nie może być w jednym elemencie obu tych własności na raz.
+
+
 
 ## Potrzebujesz pomocy lub inspiracji?
 * [tutorial, div](http://www.html-5-tutorial.com/div-tag.htm)
