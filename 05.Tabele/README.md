@@ -2,7 +2,7 @@
 
 # HTML &ndash; tabele
 
-1. Stwórz w pliku **index.html** następującą tabelę. Wypełnij ją listą postaci z Twojego ulubionego serialu lub filmu.
+1. Stwórz w pliku **index.html** następującą tabelę.
 
    ![List of characters](images/table1.png)
 
