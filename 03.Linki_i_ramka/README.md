@@ -1,6 +1,6 @@
 <img alt="logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
-# HTML &ndash; Lists, links & Iframes
+# HTML &ndash; lists, links & Iframes
 
 1. Dodaj do pliku **index.html** poniższe linki ułożone tak jak poniżej. Do pierwszej grupy dodaj **target="_blank"**, do drugiej nie dodawaj nic. Porównaj efekty i opisz spostrzeżenia je w komentarzu.
 
@@ -26,4 +26,4 @@ Tak jak w poprzednim zadaniu pamiętaj o odpowiednim zagnieżdżeniu elementów 
 * [Dokumentacja, lista zagnieżdżona](https://developer.mozilla.org/pl/docs/Web/HTML/Element/ul)
 * [Dokumentacja, element iframe](https://developer.mozilla.org/pl/docs/Web/HTML/Element/iframe)
 * [w3schools, element a](https://www.w3schools.com/tags/att_a_target.asp)
-* HTML i CSS &nbsp; pre-work
+* HTML i CSS &ndash; pre-work
