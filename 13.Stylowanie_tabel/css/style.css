@@ -1,0 +1,10 @@
+table th{
+    background: darkblue;
+    color: white;
+    font-weight: bold;
+}
+
+table{
+    border: black;
+    border-collapse: collapse;
+}
