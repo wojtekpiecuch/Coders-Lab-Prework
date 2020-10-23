@@ -1,0 +1,46 @@
+.span1{
+    color: khaki;
+}
+
+.span2{
+    color: peru;
+}
+
+.one{
+    color: #555555;
+}
+
+.two{
+    color: red;
+}
+
+.three{
+    color: darkblue;
+}
+
+.paragraf1{
+    background: rgba(56,90,124, 0.25);
+}
+
+.paragraf2{
+    background: rgba(	178,	193,	211, 0.25);
+}
+
+.paragraf3{
+    background: hsl(68,27%,76%);
+}
+
+.paragraf4{
+    background: #b3d4fc;
+    width: 200px;
+}
+
+.one1{
+    background: #888888;
+    width: 50em;
+}
+
+.two2{
+    background: cadetblue;
+    width: 20em;
+}
