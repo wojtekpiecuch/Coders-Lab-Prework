@@ -1,0 +1,20 @@
+body{
+    background: blue;
+}
+
+#bigHeader{
+    color: green;
+}
+
+#smallHeader{
+    color: purple;
+}
+
+.content{
+    color: brown;
+}
+
+.block{
+    font-size: 30px;
+    border: 10px red;
+}
