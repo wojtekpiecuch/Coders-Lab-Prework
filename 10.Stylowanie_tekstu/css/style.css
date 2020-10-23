@@ -1,0 +1,22 @@
+#container{
+    width: 500px;
+}
+#headerFirst{
+    font-family: "Arial Black";
+    border: 1px #ACC4CE;
+    background: #ACC4CE;
+    color: white;
+    font-size: 20px;
+}
+
+span.headerSecound{
+    font-family: Arial;
+    color: #395075;
+    padding: 10px;
+}
+
+p.content{
+    font-family: sans-serif;
+}
+
+kolor tła: #ACC4CE, kolor tekstu: white, wielkość czionki: 20px, kolor cienia: #878787
